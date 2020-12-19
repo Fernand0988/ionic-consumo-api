@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ionic-consumo-api"
+  },
+  "targets": {
+    "ionic-consumo-api": {
+      "hosting": {
+        "app": [
+          "ionic-consumo-api"
+        ]
+      }
+    }
+  }
+}
