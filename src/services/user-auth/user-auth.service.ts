@@ -20,7 +20,17 @@ export class UserAuthService {
       firebase.auth().signInWithPopup(new firebase.auth.GoogleAuthProvider()).then(result => {
         resolve(result) ;
         this.router.navigateByUrl('/home');
-      }).catch(error => console.log(error));
+      }).catch(error => {
+        console.log('não logou', error);
+      });
     });
+  }
+  async googleLoginPoPup(): Promise<any> {
+    return new Promise<any>((resolve, reject) => {
+      firebase.auth().signInWithPopup(new firebase.auth.GoogleAuthProvider());
+    });
+  }
+  logout(): ReturnType<firebase.auth.Auth['signOut']> {
+    return this.afAuth.signOut();
   }
 }

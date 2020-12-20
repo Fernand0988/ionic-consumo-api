@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="row d-flex align-items-center justify-content-center">
+    <div class="col-6">
+      <img class="card-img" [src]="produto.imageUrl" [alt]="produto.title" style="max-width: 400px">
+    </div>
+    <div class="col-md-6">
+      <h2>{{produto.title}}</h2>
+      <p>{{produto.description}}</p>
+      <p>{{manipularDadosObjetosService.converterParaBRL(produto.price)}}</p>
+      <p><app-componente-star-rating></app-componente-star-rating></p>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-md-12 d-flex justify-content-center align-items-center">
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" [src]="produto.imageUrl" [alt]="produto.title">
+      <div class="card-body">
+        <h5 class="card-title">{{produto.title}}</h5>
+        <p class="card-text">{{produto.description}}</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>

@@ -1,20 +1,6 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+<app-componente-header mostrarMenu = "mostrar" titulo="Home" visibilidadeBotaoVoltar="visibility: hidden"></app-componente-header>
+<ion-content>
+    <div *ngIf="vinhosRecomendados !== null && vinhosRecomendados !== undefined">
+        <app-componente-carousel [vinhosRecomendados]="vinhosRecomendados" (itemEscolhido)="produtoEscolhido($event)"></app-componente-carousel>
+    </div>
 </ion-content>

@@ -5,15 +5,19 @@ import { FormsModule } from '@angular/forms';
 import { HomePage } from './home.page';
 
 import { HomePageRoutingModule } from './home-routing.module';
+import {ComponenteHeaderModule} from '../../components/componente-header/componente-header.module';
+import {ComponenteCarouselModule} from '../../components/componente-carousel/componente-carousel.module';
 
 
 @NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    HomePageRoutingModule
-  ],
+    imports: [
+        CommonModule,
+        FormsModule,
+        IonicModule,
+        HomePageRoutingModule,
+        ComponenteHeaderModule,
+        ComponenteCarouselModule
+    ],
   declarations: [HomePage]
 })
 export class HomePageModule {}

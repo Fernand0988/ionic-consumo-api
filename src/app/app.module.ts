@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import firebase from 'firebase';
 import {AngularFireModule} from '@angular/fire';
+import {HttpClientModule} from '@angular/common/http';
 const firebaseConfig = {
   apiKey: 'AIzaSyDd1H3t9qksj13AqIVogVyK8vg7hwskY_M',
   authDomain: 'ionic-consumo-api.firebaseapp.com',
@@ -22,7 +23,8 @@ firebase.initializeApp(firebaseConfig);
   declarations: [AppComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule,
-    AngularFireModule.initializeApp(firebaseConfig)],
+    AngularFireModule.initializeApp(firebaseConfig),
+    HttpClientModule],
   providers: [
     StatusBar,
     SplashScreen,

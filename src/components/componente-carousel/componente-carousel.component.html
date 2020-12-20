@@ -1,3 +1,15 @@
-<p>
-  componente-carousel works!
-</p>
+      <ion-slides [options]="sliderConfig">
+        <ion-slide *ngFor="let produtoAtual of vinhosParaExibicao">
+                <ion-card>
+                    <ion-card-header>
+                        <ion-card-content >
+                            <img [src]="retornarObjeto(produtoAtual).imageUrl">
+                        </ion-card-content>
+                        <ion-card-title>
+                            {{ retornarObjeto(produtoAtual).title }} - {{ manipularDadosService.converterParaBRL(retornarObjeto(produtoAtual).price) }}
+                        </ion-card-title>
+                        <ion-button expand="full" style="margin-bottom: 5px" (click)="verDetalhesProduto(retornarObjeto(produtoAtual))">Ver detalhes</ion-button>
+                    </ion-card-header>
+                </ion-card>
+        </ion-slide>
+    </ion-slides>

@@ -1,0 +1,11 @@
+<div class="col-12" >
+    <div class="row">
+        <div class="col-2 componente-header" ><ion-icon name="arrow-back-outline" style="{{visibilidadeBotaoVoltar}}" (click)="retornar() "></ion-icon></div>
+        <div class="col-8 componente-header border-0" >{{titulo}}</div>
+        <div class="col-2  componente-header" >
+            <div *ngIf =" mostrarMenu === 'mostrar'">
+                <ion-button (click)="logout()"><ion-icon name="log-out-outline"></ion-icon></ion-button>
+            </div>
+        </div>
+    </div>
+</div>

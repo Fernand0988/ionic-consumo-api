@@ -1,0 +1,225 @@
+{
+   "recommendedWines":[
+      {
+         "id":428396,
+         "title":"Rolling Stones 50th Anniversary Forty Licks Merlot Wine",
+         "description":"The 2012 Merlot captures the attitude of Mendocino County's style. Aromas of black cherry, leather, and tobacco are followed by rich flavors of cinnamon over vanilla. This dry red wine is a fine match for herb-roasted chicken, grilled beef or smoky chili.",
+         "price":"$16.99",
+         "imageUrl":"https://spoonacular.com/productImages/428396-312x231.jpg",
+         "averageRating":0.96,
+         "ratingCount":7.0,
+         "score":0.9145454545454546,
+         "link":"https://www.amazon.com/Rolling-Stones-Anniversary-Merlot-Mendocino/dp/B01NCT6E9V?tag=spoonacular-20"
+      },
+      {
+         "id":431508,
+         "title":"Madsen Family Cellars State Merlot Wine",
+         "description":"This well-structured blend of Red Mountain and Wahluke Slope grapes has been aged 20 months in French and American oak barrels. Rich with cherries, cranberries and toffee with a smooth mouthfeel and a long, lingering finish. This big-bodied wine goes well with grilled lamb or beef. Seth Ryan vineyards, Red Mountain AVA and Stone Tree Vineyards, Wahluke Slope AVA. Wine Advocate 2010, issue 190 - 91 points",
+         "price":"$22.0",
+         "imageUrl":"https://spoonacular.com/productImages/431508-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":3.0,
+         "score":0.9,
+         "link":"https://www.amazon.com/Madsen-Family-Cellars-Washington-Merlot/dp/B00A3IU89M?tag=spoonacular-20"
+      },
+      {
+         "id":428601,
+         "title":"Vampire Merlot",
+         "description":"smooth medium-bodied with a fresh, black cherry aroma, and hints of herbal spices. aged in oak, our merlot develops graceful fruit flavors in the cellar, complemented by subtle shadings of vanilla and toast from the oak",
+         "price":"$17.95",
+         "imageUrl":"https://spoonacular.com/productImages/428601-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":2.0,
+         "score":0.8571428571428572,
+         "link":"https://www.amazon.com/2015-Vampire-California-Merlot-750/dp/B015OU4U9C?tag=spoonacular-20"
+      },
+      {
+         "id":428382,
+         "title":"Marilyn Merlot Wine",
+         "description":"The wines color is vibrantly garnet and the complex aromas of blueberries, anise and toasty oak all work in harmony for a wine worthy of its legacy. Moderate alcohol, soft fruit flavors and a lingering finish make this wine a great companion with food of many cuisines.",
+         "price":"$50.0",
+         "imageUrl":"https://spoonacular.com/productImages/428382-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":2.0,
+         "score":0.8571428571428572,
+         "link":"https://www.amazon.com/2010-Marilyn-Merlot-Napa-Valley/dp/B00OJDUTHS?tag=spoonacular-20"
+      },
+      {
+         "id":428227,
+         "title":"NV Miranda Lambert Belle Sweet Merlot Wine",
+         "description":"This wine exhibits the attributes of Miranda Lambert. Simply put, it means the most beautiful. With her true southern raisin', she epitomizes southern hospitality and beauty while being a bit on the wild side. This sweet red is a mouthful of ripe cherry and raspberry that will tingle the palate. The finish is so silky smooth, it leaves you wanting more.",
+         "price":"$26.0",
+         "imageUrl":"https://spoonacular.com/productImages/428227-312x231.jpg",
+         "averageRating":0.8800000000000001,
+         "ratingCount":9.0,
+         "score":0.8442857142857144,
+         "link":"https://www.amazon.com/Miranda-Lambert-Belle-Sweet-Merlot/dp/B017A2PLOU?tag=spoonacular-20"
+      },
+      {
+         "id":430475,
+         "title":"NV The Big Kahuna Merlot",
+         "description":"A ripe and rounded Merlot with notes of plum, blackberry, and hint of spice .",
+         "price":"$6.99",
+         "imageUrl":"https://spoonacular.com/productImages/430475-312x231.jpg",
+         "averageRating":0.9,
+         "ratingCount":4.0,
+         "score":0.823076923076923,
+         "link":"https://www.amazon.com/Big-Kahuna-Merlot-Red-Wine/dp/B01F5XPTUW?tag=spoonacular-20"
+      },
+      {
+         "id":430529,
+         "title":"Save Me San Francisco Hella Fine Merlot Wine",
+         "description":"Full-bodied and smooth, this is a luscious Merlot with aromas of dark fruits that are followed by rich flavors of chocolate and cherries. As Train lead singer Pat Monahan mentions in their hit song Save Me, San Francisco, this is a \"Hella Fine\" Merlot!",
+         "price":"$19.99",
+         "imageUrl":"https://spoonacular.com/productImages/430529-312x231.jpg",
+         "averageRating":0.9199999999999999,
+         "ratingCount":3.0,
+         "score":0.82,
+         "link":"https://www.amazon.com/Save-Me-San-Francisco-Merlot/dp/B011PQ0OTO?tag=spoonacular-20"
+      },
+      {
+         "id":428265,
+         "title":"Miranda Lambert County Road Merlot Wine",
+         "description":"Our most robust spirit is full of fruity flavor and powerful color yet smooth in texture and delivery. With its ripe berry essence the aroma lingers as long as the explosive finish. This dry velvety Merlot is endowed with just the right balance of power and finesse that make it an excellent companion to steak and pastas with full bodied red sauce and dark chocolate.",
+         "price":"$28.0",
+         "imageUrl":"https://spoonacular.com/productImages/428265-312x231.jpg",
+         "averageRating":0.8800000000000001,
+         "ratingCount":5.0,
+         "score":0.8175000000000001,
+         "link":"https://www.amazon.com/2013-Miranda-Lambert-County-Merlot/dp/B0184UGV8M?tag=spoonacular-20"
+      },
+      {
+         "id":459052,
+         "title":"Charles Smith Velvet Devil Merlot",
+         "description":"This little devil is wrapped in a velvet robe. Full with density and bursting with flavor. Dark fruit, cherry, blackberry. Brimming with cedar, pipe tobacco and earth. Truth in a name: Velvet.Pairs well with Roasted Pork and Grilled Steaks.",
+         "price":"$11.99",
+         "imageUrl":"https://spoonacular.com/productImages/459052-312x231.jpg",
+         "averageRating":0.82,
+         "ratingCount":25.0,
+         "score":0.8068421052631578,
+         "link":"https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fcharles-smith-velvet-devil-merlot-2014%2F152385"
+      },
+      {
+         "id":430541,
+         "title":"Castoro Cellars Merlot Wine",
+         "description":"This brick red Merlot has a full nose of blueberries, dried cherries, and boysenberries framed by dark chocolate and baking spices. The mouth begins with cranberries and plums and finishes with medium tannins and moderate vanilla oak.",
+         "price":"$17.0",
+         "imageUrl":"https://spoonacular.com/productImages/430541-312x231.jpg",
+         "averageRating":0.8800000000000001,
+         "ratingCount":4.0,
+         "score":0.8030769230769232,
+         "link":"https://www.amazon.com/2014-Castoro-Cellars-Merlot-750ml/dp/B0115MFYDO?tag=spoonacular-20"
+      },
+      {
+         "id":428399,
+         "title":"Ghost Pines Napa County Sonoma County Merlot",
+         "description":"Working without sourcing constraints, our winemakers selected Merlot clusters contributing layered flavors of dark berries, licorice and espresso alongside lots of richness, full-bodied structure, and desirable length. In addition to these flavors, you'll taste hints of cigar paper, cocoa, caramel and nutmeg wrapped around a remarkably smooth mid-palate full of velvety texture and depth. On the long finish, you'll find suggestions of toasty oak, mouth-filling black fruit, and cola framed by plush tannins.",
+         "price":"$26.65",
+         "imageUrl":"https://spoonacular.com/productImages/428399-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/Ghost-Pines-County-Sonoma-Merlot/dp/B01A8WOVRW?tag=spoonacular-20"
+      },
+      {
+         "id":469633,
+         "title":"O S Winery Elephant Mountain Merlot",
+         "description":"leather , floral , fruity",
+         "price":"$40.0",
+         "imageUrl":"https://spoonacular.com/productImages/469633-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/Winery-Elephant-Mountain-Merlot-Yakima/dp/B009YZCJ7Y?tag=spoonacular-20"
+      },
+      {
+         "id":428225,
+         "title":"Barefoot Cellars Merlot",
+         "description":"Delicious aromas and flavors of blueberry jam, currant and plum. Integrated oak lifts the fruit, and complements medium rich tannins and lingering, vanilla oak finish",
+         "price":"$12.99",
+         "imageUrl":"https://spoonacular.com/productImages/428225-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/Barefoot-Cellars-California-Merlot-Wine/dp/B00T6YTPNO?tag=spoonacular-20"
+      },
+      {
+         "id":428498,
+         "title":"Anthem Estate Merlot Mt. Veeder Napa Valley Wine",
+         "description":"black cherry , vanilla , rich",
+         "price":"$75.0",
+         "imageUrl":"https://spoonacular.com/productImages/428498-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/Anthem-Estate-Merlot-Veeder-Valley/dp/B00IY0EREI?tag=spoonacular-20"
+      },
+      {
+         "id":469320,
+         "title":"Sagebrush Annie's Ventura County Cabernet Sauvignon & Merlot Ventura County",
+         "description":"2011 - Gold Medal Long Beach Grand Cru Int'l Wine Competition",
+         "price":"$32.0",
+         "imageUrl":"https://spoonacular.com/productImages/469320-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/Sagebrush-Annies-Ventura-Cabernet-Sauvignon/dp/B00BI8KTSG?tag=spoonacular-20"
+      },
+      {
+         "id":428278,
+         "title":"Sterling Vineyards Merlot",
+         "description":null,
+         "price":"$28.99",
+         "imageUrl":"https://spoonacular.com/productImages/428278-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/2014-Sterling-Vineyards-Valley-Merlot/dp/B071FP8NPG?tag=spoonacular-20"
+      },
+      {
+         "id":428896,
+         "title":"Albertina Gold Medal Winner Merlot Lorilai's Reserve Wine",
+         "description":"Fruit-forward flavors, with soft supple tannins and a long finish.",
+         "price":"$24.5",
+         "imageUrl":"https://spoonacular.com/productImages/428896-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/Albertina-Winner-Lorilais-Reserve-Wine/dp/B00TWP0GEE?tag=spoonacular-20"
+      },
+      {
+         "id":469253,
+         "title":"Palmer Vineyards 41/72 Merlot Cuvée",
+         "description":"Dark berry flavors accented by hints of spice and delicate smoke flavors.",
+         "price":"$15.99",
+         "imageUrl":"https://spoonacular.com/productImages/469253-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/2010-Palmer-Vineyards-Merlot-Cuv%C3%A9e/dp/B00BMU3UL8?tag=spoonacular-20"
+      },
+      {
+         "id":428445,
+         "title":"Director's Merlot",
+         "description":"Our 2014 Director's Merlot offers lushness and a round, full palate. Its fragrance demonstrates red and black fruit with hints of anise and spiced wood. Juicy upon entry, the wine broadens and becomes velvety on the palate with flavors of plum, loganberry and black cherry accentuated by subtle spice notes of espresso bean and toasted vanilla. Medium tannins support the body of this wine, offering sophistication in its finish. Pairs nicely with brisket, grilled pork chops and linguine with pesto.",
+         "price":"$21.0",
+         "imageUrl":"https://spoonacular.com/productImages/428445-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/2014-Directors-Merlot-750-mL/dp/B073XVS4MB?tag=spoonacular-20"
+      },
+      {
+         "id":431741,
+         "title":"Four Brix Winery Paso Robles Sangiovese, Cab, Merlot \"Scosso\" Blend",
+         "description":"A Californian \"Super Tuscan\" of Sangiovese, Cabernet Sauvignon, and Merlot is a full-gallup ride for the senses. Concentrated aroma of raspberries and blackberries with tobacco and spice give a warm bold nose to this blend. Raspberry and espresso on the palate are balanced by full tannins and rounded by hints of pepper and vanilla with a sweet berry finish.",
+         "price":"$39.99",
+         "imageUrl":"https://spoonacular.com/productImages/431741-312x231.jpg",
+         "averageRating":1.0,
+         "ratingCount":1.0,
+         "score":0.75,
+         "link":"https://www.amazon.com/Four-Brix-Winery-Robles-Sangiovese/dp/B01C3KM7KA?tag=spoonacular-20"
+      }
+   ],
+   "totalFound":31
+}

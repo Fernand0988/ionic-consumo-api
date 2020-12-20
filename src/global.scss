@@ -24,3 +24,38 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+.centralizar-horizontalmente-verticalmente {
+  align-items: center !important;
+  justify-content: center !important;
+  display: flex;
+}
+.componente-header {
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+  outline: none !important;
+  height: 45px;
+  background: var(--ion-color-primary);
+  border: 0 !important;
+  color: white;
+  font-family: Quicksand, sans-serif;
+  font-size: 20px;
+  .ion-icon  {
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+
+}
+.ion-title{
+  --color: white;
+}
+.container-centralizar{
+  display: flex;
+  align-items: center !important;
+  justify-content: center !important;
+  height: 100vh;
+  .ion-icon{
+    color: white;
+    font-size: 10px;
+  }
+}
