@@ -18,7 +18,7 @@ export class ComponenteCarouselComponent implements OnChanges {
     spaceBetween: 10,
     centeredSlides: false
   };
-  constructor(private manipularDadosService: ManipularDadosObjetosService) {
+  constructor(public manipularDadosService: ManipularDadosObjetosService) {
 
   }
   @HostListener('window:resize', ['$event'])

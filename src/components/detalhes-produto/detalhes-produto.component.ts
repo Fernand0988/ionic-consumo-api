@@ -10,5 +10,7 @@ import {ManipularDadosObjetosService} from '../../services/manipular-dados-objet
 export class DetalhesProdutoComponent implements OnInit {
   @Input() produto: DadosVinhos = {} as DadosVinhos;
   constructor(public manipularDadosObjetosService: ManipularDadosObjetosService) { }
-  ngOnInit() {}
+  ngOnInit() {
+    // console.log(this.produto.ratingCount);
+  }
 }

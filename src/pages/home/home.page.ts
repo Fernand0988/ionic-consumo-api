@@ -16,7 +16,7 @@ export class HomePage implements OnInit{
   ngOnInit(): void {
     this.apiService.obterDados().then(resultado => {
       this.vinhosRecomendados = resultado['recommendedWines'];
-      console.log(this.vinhosRecomendados);
+      // console.log(this.vinhosRecomendados);
     }).catch(erro => {
       console.log(erro);
     });

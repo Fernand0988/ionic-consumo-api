@@ -19,7 +19,8 @@ const routes: Routes = [
   },
   {
     path: 'produto',
-    loadChildren: () => import('../pages/produto/produto.module').then(m => m.ProdutoPageModule)
+    loadChildren: () => import('../pages/produto/produto.module').then(m => m.ProdutoPageModule),
+    canActivate: [AuthLoggedGuardService]
   },
 ];
 
