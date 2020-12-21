@@ -4,6 +4,7 @@ import { Injectable } from '@angular/core';
 })
 export class ManipularDadosObjetosService {
   constructor() { }
+
   retornarNumerosAleatorios(numeroInicial: number, numeroFinal: number, quantidade: number, podeRepetir: boolean): Array<number>{
   const numerosAleatorios = new Array<number>();
   while (numerosAleatorios.length < quantidade) {
