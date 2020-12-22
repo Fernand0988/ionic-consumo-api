@@ -9,6 +9,8 @@ import { AppRoutingModule } from './app-routing.module';
 import firebase from 'firebase';
 import {AngularFireModule} from '@angular/fire';
 import {HttpClientModule} from '@angular/common/http';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 const firebaseConfig = {
   apiKey: 'AIzaSyDd1H3t9qksj13AqIVogVyK8vg7hwskY_M',
   authDomain: 'ionic-consumo-api.firebaseapp.com',
@@ -24,7 +26,8 @@ firebase.initializeApp(firebaseConfig);
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule,
     AngularFireModule.initializeApp(firebaseConfig),
-    HttpClientModule],
+    HttpClientModule,
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })],
   providers: [
     StatusBar,
     SplashScreen,
